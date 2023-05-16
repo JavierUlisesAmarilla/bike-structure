@@ -18,9 +18,3 @@ This fictive project was created to showcase my current skills using Three.js an
 - GSAP
 - ASScroll
 - Vite
-
-## Authors
-
-- [Kiril Bernard Tucker](https://github.com/Kirilbt)
-
-Special thanks to Andrew Woan, Bruno Simon and everyone on the Three.Js Journey's discord who helped me.
